@@ -1,1 +1,1 @@
-RocketWP
+Private Wordpress Plugin
